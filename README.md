@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # huntao
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# day01
+>>>>>>> bf4dbd4b2c3673900aba2bbe892bf30adcd658d1
